@@ -1,34 +1,34 @@
 ---
-title: "Internship Report"
+title: "Nguyen Hoang Son - Internship Report"
 weight: 1
 chapter: false
 ---
 
     
-# Internship Report
+# Nguyen Hoang Son Internship Report
 
 
 
 ### Student Information:
-&emsp; **Họ và tên:** Huỳnh Minh Tâm
+&emsp; **Họ và tên:** Nguyễn Hoàng Sơn
 
-&emsp; **Số điện thoại:** 0914209673
+&emsp; **Số điện thoại:** 0961346562
 
-&emsp; **Email:** tamhmse182722@fpt.edu.vn
+&emsp; **Email:** nguyenhson692@gmail.com
 
-&emsp; **Trường:** Đại học FPT TP.HCM
+&emsp; **Trường:** Đại học công nghệ TP.HCM (HUTECH)
 
 &emsp; **Ngành:** Công nghệ thông tin
 
-&emsp; **Mã sinh viên:** SE182722
+&emsp; **Mã sinh viên:** 2280602754
 
 &emsp; **Công ty thực tập:** Công ty TNHH Amazon Web Services Vietnam
 
 &emsp; **Vị trí thực tập:** FCJ Cloud Intern
 
-&emsp; **Thời gian thực tập:** Từ ngày 08/09/2025 đến ngày 12/11/2025
+&emsp; **Thời gian thực tập:** Từ ngày 17/04/2026 đến ngày 10/07/2026
 
-![Ảnh đại diện của bạn](/images/avatar1.jpg)
+![Ảnh đại diện của bạn](/images/HoangSOn.jpg)
 
 ### Report Content
 

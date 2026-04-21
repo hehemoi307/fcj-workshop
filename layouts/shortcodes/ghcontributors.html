@@ -19,7 +19,14 @@
   }
 </style>
 <div class="ghContributors">
-  {{ $url := .Get 0 }} {{ range getJSON $url }}
+  {{ $url := .Get 0 }}
+  {{ $contributors := slice }}
+  {{ with resources.GetRemote $url }}
+    {{ $contributors = . | transform.Unmarshal }}
+  {{ else }}
+    {{ warnf "Failed to fetch GitHub contributors from %q" $url }}
+  {{ end }}
+  {{ range $contributors }}
   <div>
     <img
       src="{{.avatar_url}}"
