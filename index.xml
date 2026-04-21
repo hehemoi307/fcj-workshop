@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Nguyen Hoang Son - Internship Report on Internship Report</title><link>https://hehemoi307.github.io/fcj-workshop/</link><description>Recent content in Nguyen Hoang Son - Internship Report on Internship Report</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 17 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://hehemoi307.github.io/fcj-workshop/index.xml" rel="self" type="application/rss+xml"/><item><title>Khoi tao</title><link>https://hehemoi307.github.io/fcj-workshop/1-worklog/2026-04-17-khoi-tao/</link><pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate><guid>https://hehemoi307.github.io/fcj-workshop/1-worklog/2026-04-17-khoi-tao/</guid><description>&lt;p>&lt;img alt="Hoang Son" src="./images/HoangSOn.jpg">&lt;/p>
+&lt;h3 id="week-1-objectives">Week 1 Objectives:&lt;/h3>
+&lt;ul>
+&lt;li>Hoan tat tai khoan AWS Free Tier va cau hinh bao mat co ban cho tai khoan.&lt;/li>
+&lt;li>Cai dat bo cong cu bao cao (Hugo + Git) de theo doi tien do du an.&lt;/li>
+&lt;li>Nam tong quan Cloud Computing va cac nhom dich vu AWS co ban.&lt;/li>
+&lt;/ul>
+&lt;h3 id="tasks-day-1---17042026">Tasks (Day 1 - 17/04/2026):&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Task&lt;/th>
+ &lt;th style="text-align: left">Start&lt;/th>
+ &lt;th style="text-align: left">End&lt;/th>
+ &lt;th style="text-align: left">Material&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">Create AWS Free Tier account and identity verification&lt;/td>
+ &lt;td style="text-align: left">17/04/2026&lt;/td>
+ &lt;td style="text-align: left">17/04/2026&lt;/td>
+ &lt;td style="text-align: left">AWS Portal&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Setup security baseline: Root MFA and IAM Admin User&lt;/td>
+ &lt;td style="text-align: left">17/04/2026&lt;/td>
+ &lt;td style="text-align: left">17/04/2026&lt;/td>
+ &lt;td style="text-align: left">AWS IAM Docs&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Install Hugo Extended and configure environment variables&lt;/td>
+ &lt;td style="text-align: left">17/04/2026&lt;/td>
+ &lt;td style="text-align: left">17/04/2026&lt;/td>
+ &lt;td style="text-align: left">Hugo Docs&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Fork, clone FCJ template and run local Hugo server&lt;/td>
+ &lt;td style="text-align: left">17/04/2026&lt;/td>
+ &lt;td style="text-align: left">17/04/2026&lt;/td>
+ &lt;td style="text-align: left">GitHub + FCJ Template&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h3 id="day-1-achievements">Day 1 Achievements:&lt;/h3>
+&lt;ul>
+&lt;li>Account: Da kich hoat tai khoan AWS va xac nhan thong tin thanh cong.&lt;/li>
+&lt;li>Security: Da bat MFA cho Root account va tao IAM Admin user de dung hang ngay.&lt;/li>
+&lt;li>Tooling: Da cai dat Hugo, chay duoc site local, va tao bai worklog dau tien.&lt;/li>
+&lt;li>Git workflow: Da hieu va thuc hanh quy trinh Fork -&amp;gt; Clone -&amp;gt; Edit -&amp;gt; Commit -&amp;gt; Push.&lt;/li>
+&lt;/ul>
+&lt;h3 id="notes-for-next-days">Notes for next days:&lt;/h3>
+&lt;ul>
+&lt;li>Tu 18/04 den 10/07 se tiep tuc cap nhat worklog theo tuan, tap trung vao IAM, EC2, S3, VPC va cac bai workshop theo lo trinh du an.&lt;/li>
+&lt;/ul></description></item></channel></rss>
