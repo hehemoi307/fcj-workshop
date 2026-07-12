@@ -34,7 +34,7 @@ After pressing Enter, Maven will download necessary dependencies and package the
 
 The execution of the command automatically generates a folder named `target`, visible in the left Explorer pane of VS Code. In the Spring Boot ecosystem, your primary focus is this single file:
 
-- ✅ `pet-resort-api-0.0.1-SNAPSHOT.jar` - The Fat JAR file ready to be uploaded to your EC2 server.
+- ✅ `petshop-backend-1.0.0.jar` - The Fat JAR file ready to be uploaded to your EC2 server.
 - ✅ Includes an Embedded Web Server (Tomcat).
 - ✅ All necessary dependencies are bundled inside.
 - ✅ Configurations from `application.properties` are accurately mapped.

@@ -34,7 +34,7 @@ Sau khi nhấn Enter, Maven sẽ tải các thư viện cần thiết và tiến
 
 Lệnh trên đã tự động tạo ra một thư mục có tên là `target` nằm trong cây thư mục bên trái của VS Code. Trong hệ sinh thái Spring Boot, bạn chỉ cần quan tâm đến file quan trọng nhất:
 
-- ✅ `petshop-api-0.0.1-SNAPSHOT.jar` - File Fat JAR đã sẵn sàng để upload lên máy chủ EC2.
+- ✅ `petshop-backend-1.0.0.jar` - File Fat JAR đã sẵn sàng để upload lên máy chủ EC2.
 - ✅ Tích hợp sẵn máy chủ Web (Embedded Tomcat).
 - ✅ Tất cả dependencies (thư viện) đã được bao gồm đầy đủ bên trong.
 - ✅ Cấu hình từ `application.properties` đã được ánh xạ chuẩn xác.
