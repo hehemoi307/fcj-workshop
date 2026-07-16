@@ -69,6 +69,10 @@ nohup java -jar pet-resort-api.jar > app.log 2>&1 &
 ```
 At this point, your API is running on port `8080` attached to its Private IP (e.g., `10.0.1.15:8080`).
 
+You can verify that the application has successfully started by checking the logs (e.g., running `cat app.log` or running the Java command directly to inspect the console output):
+
+![Spring Boot Application Running successfully on port 8080](/images/5-Workshop/backend-run.png)
+
 #### Step 6: Create a Target Group
 
 Before configuring the Application Load Balancer, we must define the destination target group for the backend traffic.

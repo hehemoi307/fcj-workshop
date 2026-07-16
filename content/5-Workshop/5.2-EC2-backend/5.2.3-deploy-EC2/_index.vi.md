@@ -68,6 +68,10 @@ Khởi chạy ứng dụng chạy ngầm trên máy chủ bằng lệnh `nohup`:
 nohup java -jar pet-resort-api.jar > app.log 2>&1 &
 ```
 Lúc này, API của bạn đã chạy trên cổng `8080` của địa chỉ Private IP (Ví dụ: `10.0.1.15:8080`).
+ 
+Bạn có thể kiểm tra xem ứng dụng đã khởi chạy thành công hay chưa bằng cách kiểm tra log (ví dụ: chạy lệnh `cat app.log` hoặc chạy trực tiếp lệnh Java để quan sát log xuất ra màn hình console):
+
+![Ứng dụng Spring Boot khởi chạy thành công trên cổng 8080](/images/5-Workshop/backend-run.png)
 
 #### Bước 6: Tạo Target Group (Nhóm đối tượng đích)
 
