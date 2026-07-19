@@ -5,21 +5,21 @@ chapter: false
 pre: " <b> 1.1. </b> "
 ---
 
-### Week 1 Objectives:
-- Participate in the Orientation session, get to know the FCJ Mentor team, and align working methods with team members.
-- Grasp fundamental concepts of Cloud Computing, prepare AWS account and the environment for writing personal reports.
+### Week 1 Objectives: Cloud Foundations & Reporting Tools
+*   Duration: from **17/04/2026** to **23/04/2026**.
+*   Core focus: Learning and accomplishing tasks regarding **Cloud Foundations & Reporting Tools**.
 
-| Day | Tasks & Completed Assignments | Start Date | End Date | References |
+| Day | Work & Tasks Accomplished | Start Date | End Date | References |
 |:---:|:---|:---:|:---:|:---|
-| 1 | Kick-start the internship: Read and thoroughly understand the internship regulations, watch overview videos about the AWS service ecosystem. | 04/17/2026 | 04/17/2026 | |
-| 2 | Complete Module 01 theory:<br>- Synthesize definitions of Cloud Computing.<br>- Distinguish service models (IaaS, PaaS, SaaS) and core benefits of migrating to the Cloud. | 04/18/2026 | 04/18/2026 | |
-| 3 | - Successfully create an AWS Free Tier account for practice.<br>- Apply AWS Best Practices: Set up an IAM Admin Group and create an IAM User account (do not use the Root user). | 04/19/2026 | 04/20/2026 | |
-| 4 | Set up local environment: Download and configure Hugo Static Site Generator, run a test template in preparation for writing Workshop documentation. | 04/21/2026 | 04/21/2026 | |
-| 5 | Start approaching Amazon EC2 service: Research concepts of Instance, AMI, and Security Group firewall configuration rules. | 04/22/2026 | 04/22/2026 | |
-| 6 | - Practice 5 basic labs to get familiar with navigation on the AWS Management Console.<br>- Learn about Billing and how to apply Credits to a Free Tier account. | 04/23/2026 | 04/23/2026 | |
+| 1 | Attend internship orientation, meet Mentors, and align team roles. | 17/04/2026 | 17/04/2026 | FCJ Internship Guidelines |
+| 2 | Study Cloud Computing theory, differentiate service models (IaaS, PaaS, SaaS) and benefits of cloud migration. | 18/04/2026 | 18/04/2026 | AWS Cloud Practitioner Essentials |
+| 3 | Create AWS Free Tier account. Apply security best practices: enable MFA for Root, create IAM Admin User. | 19/04/2026 | 20/04/2026 | AWS IAM User Guide |
+| 4 | Install Hugo Static Site Generator locally, run the template reporting website. | 21/04/2026 | 21/04/2026 | Hugo Docs |
+| 5 | Get familiar with AWS Management Console navigation and complete 5 basic console labs. | 22/04/2026 | 22/04/2026 | AWS Console Guide |
+| 6 | Read about AWS Billing management and set up basic budget alerts to control account spending. | 23/04/2026 | 23/04/2026 | AWS Billing Docs |
 
-### Achievements of the week:
+### Key Accomplishments of the Week:
 
-*   **Fundamental Knowledge:** Understand the overall picture of cloud computing and classify key service groups on AWS.
-*   **Account Security:** Complete AWS account protection by delegating permissions via IAM, eliminating the risk of operating directly with the Root account.
-*   **Working Environment:** Successfully launch the report website skeleton using the Hugo framework on localhost, ready to update progress for the upcoming weeks.
+*   **Understand the overall cloud computing landscape and the AWS ecosystem.**
+*   **Complete basic account security configurations to prevent credential leaks or cost anomalies.**
+*   **Successfully run the Hugo reporting website on localhost.**

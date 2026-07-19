@@ -5,18 +5,19 @@ chapter: false
 pre: " <b> 1.2. </b> "
 ---
 
-### Week 2 Objectives:
-- Strengthen teamwork, brainstorm together, and assign specific roles and tasks to each individual in the internship project.
-- Approach real-world case studies on AWS, practice reading comprehension, and translate specialized English documents.
+### Week 2 Objectives: Access Control & Authorization with AWS IAM
+*   Duration: from **24/04/2026** to **30/04/2026**.
+*   Core focus: Learning and accomplishing tasks regarding **Access Control & Authorization with AWS IAM**.
 
-| Day | Tasks & Completed Assignments | Start Date | End Date | References |
+| Day | Work & Tasks Accomplished | Start Date | End Date | References |
 |:---:|:---|:---:|:---:|:---|
-| 1 | Research Cloud Migration strategies and actual deployment phases of enterprises according to the AWS framework. | 04/24/2026 | 04/27/2026 | |
-| 2 | Search and explore interesting technology topics on the AWS Blogs page to select a suitable article for translation. | 04/28/2026 | 04/28/2026 | <https://aws.amazon.com/blogs/> |
-| 3 | Translate the first AWS Blog article into Vietnamese, reformat the Markdown to be compatible with the Hugo web template. | 04/29/2026 | 04/29/2026 | |
+| 1 | Study AWS Identity and Access Management (IAM) mechanics and Policy evaluation logic. | 24/04/2026 | 25/04/2026 | IAM Policies Overview |
+| 2 | Practice creating Customer Managed Policies using JSON, applying the Principle of Least Privilege. | 26/04/2026 | 27/04/2026 | IAM JSON Policy Reference |
+| 3 | Learn IAM Roles and temporary credential mechanisms for AWS resources. | 28/04/2026 | 28/04/2026 | IAM Roles Docs |
+| 4 | Translate the first technical AWS Blog post related to identity management and access control security. | 29/04/2026 | 30/04/2026 | AWS Blogs |
 
-### Achievements of the week:
+### Key Accomplishments of the Week:
 
-*   **Strategic Knowledge:** Grasp the mindset and methodologies (e.g., the 6 R's strategies) when migrating a traditional (On-premises) system to the AWS platform.
-*   **Specialized Skills:** Become more familiar with the presentation of AWS technical documentation, complete the first draft translation, and prepare to upload it to the personal website.
-*   **Project Development:** Finalize the core direction and main features with the team, start gathering materials to prepare for writing the Project Proposal.
+*   **Master writing custom IAM policies using JSON syntax.**
+*   **Understand the differences between IAM Users, Groups, and IAM Roles.**
+*   **Complete the first high-quality technical translation for blog publication.**

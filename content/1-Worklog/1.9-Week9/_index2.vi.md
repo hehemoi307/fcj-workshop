@@ -5,33 +5,19 @@ chapter: false
 pre: " <b> 1.9. </b> "
 ---
 
-### Mục tiêu Tuần 9:
-* Tối ưu hóa hiệu suất tải trang (Performance Tuning) và bảo mật cấu hình môi trường cho mã nguồn Frontend ReactJS.
-* Nghiên cứu chuyên sâu về cơ chế bộ nhớ đệm (Caching) của Amazon CloudFront và các công cụ giám sát tài nguyên tĩnh.
-* Kiểm thử và xử lý các kịch bản ngoại lệ (Edge Cases) trên giao diện người dùng (UI/UX) ở môi trường local trước khi đưa lên Cloud.
+### Mục tiêu Tuần 9: Cơ sở Dữ liệu Amazon RDS & Bộ nhớ đệm ElastiCache
+*   Khoảng thời gian: từ **18/06/2026** đến **25/06/2026**.
+*   Nội dung chính: Học tập và thực hiện các nhiệm vụ liên quan đến **Cơ sở Dữ liệu Amazon RDS & Bộ nhớ đệm ElastiCache**.
 
-### Nhiệm vụ thực hiện trong tuần:
-| Ngày | Nhiệm vụ chi tiết | Ngày bắt đầu | Ngày kết thúc | Tài liệu tham khảo |
-| :---: | :--- | :---: | :---: | :--- |
-| 1 | - Rà soát và tối ưu hóa mã nguồn ReactJS.<br>- Triển khai kỹ thuật Code Splitting và Lazy Loading để chia nhỏ kích thước tệp tĩnh (bundle size), giúp tăng tốc độ tải trang lần đầu (First Contentful Paint). | 15/06/2026 | 15/06/2026 | React Performance Optimization |
-| 2 | - Tìm hiểu lý thuyết chuyên sâu về **Amazon CloudFront**.<br>- Nghiên cứu các khái niệm Time-to-Live (TTL), Cache Policies và cơ chế ép làm mới dữ liệu (Cache Invalidation) khi cập nhật phiên bản web mới. | 16/06/2026 | 16/06/2026 | Tài liệu Amazon CloudFront |
-| 3 | - Bảo mật mã nguồn Frontend: Tách các cấu hình như địa chỉ Base URL gọi API, các Public Key của dịch vụ bên thứ ba ra khỏi mã nguồn thuần túy.<br>- Cấu hình sử dụng biến môi trường (Environment Variables) thông qua tệp `.env`. | 17/06/2026 | 17/06/2026 | React Environment Variables |
-| 4 | - Tìm hiểu cách giám sát Frontend thông qua **Amazon CloudWatch**.<br>- Học cách phân tích các chỉ số của S3 và CloudFront (như Tỉ lệ Cache Hit/Miss Rate, lượng băng thông tiêu thụ, tỉ lệ lỗi 4xx/5xx). | 18/06/2026 | 18/06/2026 | AWS CloudWatch Metrics |
-| 5 | - Thực hiện kiểm thử các kịch bản lỗi cục bộ (Error Scenarios) phía giao diện: Giả lập trạng thái mất kết nối mạng, Backend API không phản hồi hoặc gửi về Token JWT đã hết hạn.<br>- Cấu hình `Axios Interceptors` để đánh chặn và xử lý lỗi tập trung. | 19/06/2026 | 19/06/2026 | Guide to Axios Error Handling |
+| Ngày | Các công việc & Nhiệm vụ đã thực hiện | Ngày bắt đầu | Ngày kết thúc | Tài liệu tham khảo |
+|:---:|:---|:---:|:---:|:---|
+| 1 | Nghiên cứu Amazon RDS. So sánh các mô hình triển khai Single-AZ vs Multi-AZ. | 18/06/2026 | 19/06/2026 | Amazon RDS User Guide |
+| 2 | Khởi tạo RDS MySQL DB Instance chạy chế độ Multi-AZ (Primary/Standby) đặt trên Subnet Group riêng của Private Subnets. | 20/06/2026 | 21/06/2026 | RDS Multi-AZ Deployment |
+| 3 | Thiết lập Security Group của Database chỉ cho phép kết nối ở cổng 3306 từ Security Group `SG_Backend` của EC2. | 22/06/2026 | 23/06/2026 | RDS Security Groups Docs |
+| 4 | Tìm hiểu Amazon ElastiCache. Khởi tạo một Redis cluster chạy trong Private Subnet để lưu cache danh mục sản phẩm của Pet Shop. | 24/06/2026 | 25/06/2026 | Amazon ElastiCache Docs |
 
 ### Kết quả đạt được trong tuần:
 
-* **Tối ưu hóa mã nguồn và hiệu suất Frontend (Frontend Performance Tuning):**
-  * Giảm đáng kể dung lượng JavaScript tải xuống ở lần truy cập đầu tiên nhờ áp dụng Lazy Loading cho các component không hiển thị ngay, giúp website Pet Resort load mượt mà hơn.
-  * Triển khai giải pháp bảo vệ cấu hình: Loại bỏ hoàn toàn việc viết cứng (Hardcode) URL API Backend vào mã nguồn. Chuyển cấu trúc sang nạp động thông qua tệp `.env`, đảm bảo an toàn tuyệt đối khi push code lên kho lưu trữ GitHub.
-
-* **Nắm vững cơ chế mạng phân phối nội dung (CDN Caching & Monitoring):**
-  * Hiểu rõ cách thức CloudFront lưu trữ đệm dữ liệu ở các Edge Location. Biết cách thao tác tạo Invalidation để xóa cache cũ, ép CDN cập nhật nội dung website mới nhất ngay lập tức.
-  * Nhận biết được các chỉ số quan trọng (Cache Hit Rate, Error Rate) trên CloudWatch để có thể giám sát sức khỏe của hệ thống phân phối nội dung tĩnh sau khi đưa lên hoạt động thực tế.
-
-* **Hoàn thiện trải nghiệm người dùng trong các kịch bản lỗi (Robust UI Error Handling):**
-  * Nâng cấp luồng xử lý lỗi phía Frontend bằng `Axios Interceptors`: Khi hệ thống nhận về mã lỗi 401 (Unauthorized) do JWT hết hạn, Frontend sẽ tự động điều hướng người dùng về trang `LoginPage` một cách trơn tru, thay vì hiển thị giao diện trắng (white screen).
-  * Xây dựng thành công các màn hình báo lỗi dự phòng (Fallback UI / Error Boundaries) thân thiện, giúp giữ chân khách hàng khi Backend xảy ra sự cố đột ngột.
-
-* **Chuẩn bị sẵn sàng tài liệu triển khai:**
-  * Tổng hợp danh sách toàn bộ các biến môi trường (Environment Variables) cần thiết phía Frontend để chuẩn bị cho quá trình nạp tự động vào luồng CI/CD (GitHub Actions) trong các giai đoạn sắp tới.
+*   **Hiểu và cấu hình RDS Multi-AZ để tăng độ tin cậy của dữ liệu.**
+*   **Bảo mật lớp cơ sở dữ liệu ở mức tối đa bằng Security Groups.**
+*   **Tích hợp bộ nhớ đệm Redis để tăng hiệu năng đọc của ứng dụng.**

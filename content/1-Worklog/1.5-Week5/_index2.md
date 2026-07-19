@@ -5,21 +5,19 @@ chapter: false
 pre: " <b> 1.5. </b> "
 ---
 
-### Week 5 Objectives:
-- Research core Compute Services on the AWS platform.
-- Learn how to apply virtual servers (Amazon EC2) and serverless architecture (AWS Lambda) in modern web models.
-- Practice evaluating trade-offs of compute services to propose optimal deployment solutions.
+### Week 5 Objectives: Cloud Storage with Amazon S3
+*   Duration: from **18/05/2026** to **24/05/2026**.
+*   Core focus: Learning and accomplishing tasks regarding **Cloud Storage with Amazon S3**.
 
-| Day | Tasks & Completed Assignments | Start Date | End Date | References |
+| Day | Work & Tasks Accomplished | Start Date | End Date | References |
 |:---:|:---|:---:|:---:|:---|
-| 1 | Research Amazon EC2 in detail: Learn about Amazon Machine Image (AMI), Instance Types, and how to use EC2 User Data to automate environment setup upon launch. | 05/18/2026 | 05/18/2026 | Amazon EC2 Documentation |
-| 2 | Approach the Serverless model: Learn the concept of Function-as-a-Service (FaaS) and the event-driven processing mechanism of AWS Lambda. | 05/19/2026 | 05/19/2026 | AWS Lambda Documentation |
-| 3 | Application theory analysis: Compare IaaS (EC2) and FaaS (Lambda) models in terms of Operational Overhead, automatic Scaling mechanisms, and cost factors. | 05/20/2026 | 05/20/2026 | AWS Compute Blog |
-| 4 | Research Architecture Patterns: Evaluate how to combine AWS Lambda with Amazon S3 (e.g., using Lambda to automatically process images when a new file is uploaded to an S3 Bucket). | 05/21/2026 | 05/21/2026 | AWS Event Triggers Lab Data |
-| 5 | Synthesize system analysis knowledge learned during the week, compile documentation, and update progress to the local Hugo report page. | 05/22/2026 | 05/22/2026 | |
+| 1 | Study Amazon S3, Buckets, Objects, Permissions, and S3 Storage Classes. | 18/05/2026 | 19/05/2026 | Amazon S3 Developer Guide |
+| 2 | Create S3 Bucket, configure Static Website Hosting to prepare for ReactJS Frontend hosting. | 20/05/2026 | 21/05/2026 | S3 Static Website Hosting |
+| 3 | Configure S3 CORS Policies to allow cross-origin requests. Apply public read S3 Bucket Policy. | 22/05/2026 | 22/05/2026 | S3 CORS & Policies Docs |
+| 4 | Study S3 Lifecycle Rules, configure automatic archiving rules to S3 Glacier to minimize storage cost. | 23/05/2026 | 24/05/2026 | S3 Lifecycle Management |
 
-### Achievements of the week:
+### Key Accomplishments of the Week:
 
-*   **Compute Architecture:** Clearly distinguish the difference between provisioning and maintaining a virtual server (EC2) versus executing code on demand without managing servers (Lambda).
-*   **Automation Mindset:** Grasp how to use EC2 User Data for startup environment setup and the idea of using S3 Triggers to invoke Lambda, making system operations more flexible.
-*   **Solution Analysis:** Accumulate the ability to identify suitable Use Cases for each type of compute service, setting the premise for the upcoming Architecture Proposal phase.
+*   **Learn how to host a static website on Amazon S3.**
+*   **Secure S3 bucket access using CORS and Bucket Policies.**
+*   **Optimize storage costs by configuring S3 Lifecycle Rules.**
