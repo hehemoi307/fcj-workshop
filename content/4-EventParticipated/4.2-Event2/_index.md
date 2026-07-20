@@ -10,7 +10,7 @@ pre: " <b> 4.2. </b> "
 ### Event Details
 - **Date**: Saturday, June 27, 2026
 - **Time**: 9:00 AM - 12:00 PM
-- **Location**: Saigon Campus - Level 26 Bitexco Financial Tower, HCMC
+- **Location**: Saigon Campus - Level 26 Bitexco Financial Tower, HCMC (combined with livestream)
 - **Event Type**: Technical Workshop, Tech Updates, and Networking
 
 ### Event Objectives

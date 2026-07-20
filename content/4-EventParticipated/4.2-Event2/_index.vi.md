@@ -10,7 +10,7 @@ pre: " <b> 4.2. </b> "
 ### Chi tiết Sự kiện
 - **Ngày**: Thứ Bảy, 27 tháng 6, 2026
 - **Thời gian**: 9:00 AM - 12:00 PM
-- **Địa điểm**: Saigon Campus - Tầng 26 Tòa nhà Bitexco, TP.HCM
+- **Địa điểm**: Saigon Campus - Tầng 26 Tòa nhà Bitexco, TP.HCM (kết hợp livestream)
 - **Loại sự kiện**: Hội thảo Kỹ thuật, Cập nhật Công nghệ AI và Networking
 
 ### Mục tiêu Sự kiện
