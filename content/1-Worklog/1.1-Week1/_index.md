@@ -12,9 +12,9 @@ pre: " <b> 1.1. </b> "
 ### Tasks carried out this week:
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | --------------- | ----------------------------------------- |
-| 1 | Thoroughly review internship guidelines, regulations, and watch introductory videos about the AWS ecosystem. | 17/04/2026 | 17/04/2026 | |
+| 1 | Thoroughly review internship guidelines, regulations, and watch introductory videos about the AWS ecosystem. | 17/04/2026 | 17/04/2026 | [AWS Study Group](https://000001.awsstudygroup.com/) |
 | 2 | Study Module 01 content:<br>- Cloud Computing definitions.<br>- Deployment models and core benefits. | 18/04/2026 | 18/04/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 3 | - Successfully register an AWS Free Tier account.<br>- Practice basic account security from Module 01:<br>&emsp; + Create IAM Admin Group and configure an Admin User.<br>- Explore Draw.io for future architecture diagrams. | 20/04/2026 | 20/04/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 3 | - Successfully register an AWS Free Tier account.<br>- Practice basic account security from Module 01:<br>&emsp; + Create IAM Admin Group and configure an Admin User.<br>- Explore Draw.io for future architecture diagrams. | 20/04/2026 | 20/04/2026 | [Free Plan vs Paid Plan](https://000002.awsstudygroup.com/2-so-s%C3%A1nh-chi-ti%E1%BA%BFt-free-plan-vs-paid-plan/) |
 | 4 | Learn and install the Hugo Static Site Generator framework on the local machine; understand documentation directory structures. | 21/04/2026 | 21/04/2026 | |
 | 5 | Study foundational theory of Amazon EC2 virtual servers (Instance concepts, types, and Security Groups). | 22/04/2026 | 22/04/2026 | <https://cloudjourney.awsstudygroup.com/> |
 | 6 | Navigate the AWS Console with 5 basic labs to get used to the management interface and learn how the Free Tier credit system operates. | 23/04/2026 | 23/04/2026 | <https://cloudjourney.awsstudygroup.com/> |
