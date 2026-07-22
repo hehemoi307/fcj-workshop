@@ -5,12 +5,12 @@ chapter: false
 pre: " <b> 7. </b> "
 ---
 
-> Here, you can freely share your personal opinions about your experience participating in the First Cloud Journey program. This will help the FCJ team improve any shortcomings based on the following aspects:
+> Here, you can freely share your personal opinions about your experience participating in the First Cloud AI Journey program. This will help the FCAJ team improve any shortcomings based on the following aspects:
 
 ### Overall Evaluation
 
 **1. Working Environment**  
-The working environment is very friendly and open. FCJ members are always willing to help whenever I encounter difficulties, even outside working hours. The workspace is tidy and comfortable, helping me focus better. However, I think it would be nice to have more social gatherings or team bonding activities to strengthen relationships.
+The working environment is very friendly and open. FCAJ members are always willing to help whenever I encounter difficulties, even outside working hours. The workspace is tidy and comfortable, helping me focus better. However, I think it would be nice to have more social gatherings or team bonding activities to strengthen relationships.
 
 **2. Support from Mentor / Team Admin**  
 The mentor provides very detailed guidance, explains clearly when I don’t understand, and always encourages me to ask questions. The admin team supports administrative tasks, provides necessary documents, and creates favorable conditions for me to work effectively. I especially appreciate that the mentor allows me to try and solve problems myself instead of just giving the answer.
@@ -44,7 +44,7 @@ The company provides an internship allowance and offers flexible working hours w
   I suggest organizing more short, periodic mini-workshops or tech-sharing sessions. This not only helps everyone expand their professional knowledge beyond their current projects but also creates a space for interns to connect and exchange ideas with each other.
 
 - **Would you like to continue with this program in the future?**  
-  Yes, I would very much like to continue accompanying or participating in FCJ's future programs if given the opportunity, as this internship has brought me immense practical value.
+  Yes, I would very much like to continue accompanying or participating in FCAJ's future programs if given the opportunity, as this internship has brought me immense practical value.
 
 - **Other feedback (feel free to share):**  
-  I would like to send my sincere thanks to the mentors, the admin team, and the FCJ organizing committee. Thank you everyone for always being patient, supportive, and creating such a fulfilling and meaningful internship experience.
+  I would like to send my sincere thanks to the mentors, the admin team, and the FCAJ organizing committee. Thank you everyone for always being patient, supportive, and creating such a fulfilling and meaningful internship experience.

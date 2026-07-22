@@ -6,12 +6,12 @@ pre: " <b> 7. </b> "
 ---
 
 
->Tại đây bạn có thể tự do đóng góp ý kiến cá nhân về những trải nghiệm khi tham gia chương trình First Cloud Journey, giúp team FCJ cải thiện những vấn đề còn thiếu sót dựa trên các hạng mục sau:
+>Tại đây bạn có thể tự do đóng góp ý kiến cá nhân về những trải nghiệm khi tham gia chương trình First Cloud AI Journey, giúp team FCAJ cải thiện những vấn đề còn thiếu sót dựa trên các hạng mục sau:
 
 ### Đánh giá chung
 
 **1. Môi trường làm việc**  
-Môi trường làm việc rất thân thiện và cởi mở. Các thành viên trong FCJ luôn sẵn sàng hỗ trợ khi mình gặp khó khăn, kể cả ngoài giờ làm việc. Không gian làm việc gọn gàng, thoải mái, giúp mình tập trung tốt hơn. Tuy nhiên, mình nghĩ có thể bổ sung thêm một số buổi giao lưu hoặc team bonding để mọi người hiểu nhau hơn.
+Môi trường làm việc rất thân thiện và cởi mở. Các thành viên trong FCAJ luôn sẵn sàng hỗ trợ khi mình gặp khó khăn, kể cả ngoài giờ làm việc. Không gian làm việc gọn gàng, thoải mái, giúp mình tập trung tốt hơn. Tuy nhiên, mình nghĩ có thể bổ sung thêm một số buổi giao lưu hoặc team bonding để mọi người hiểu nhau hơn.
 
 **2. Sự hỗ trợ của mentor / team admin**  
 Mentor hướng dẫn rất chi tiết, giải thích rõ ràng khi mình chưa hiểu và luôn khuyến khích mình đặt câu hỏi. Team admin hỗ trợ các thủ tục, tài liệu và tạo điều kiện để mình làm việc thuận lợi. Mình đánh giá cao việc mentor cho phép mình thử và tự xử lý vấn đề thay vì chỉ đưa đáp án.
@@ -45,7 +45,7 @@ Công ty có hỗ trợ phụ cấp thực tập và tạo điều kiện về t
   Mình đề xuất có thêm các buổi mini-workshop hoặc tech-sharing định kỳ ngắn. Việc này không chỉ giúp mọi người mở rộng kiến thức chuyên môn ngoài phạm vi dự án đang làm, mà còn tạo không gian gắn kết, trao đổi giữa các thực tập sinh với nhau.
 
 - **Bạn có muốn tiếp tục chương trình này trong tương lai?**  
-  Có, mình rất mong muốn được tiếp tục đồng hành hoặc tham gia các chương trình tiếp theo của FCJ trong tương lai nếu có cơ hội, vì khóa thực tập đã mang lại cho mình những giá trị thực tiễn rất lớn.
+  Có, mình rất mong muốn được tiếp tục đồng hành hoặc tham gia các chương trình tiếp theo của FCAJ trong tương lai nếu có cơ hội, vì khóa thực tập đã mang lại cho mình những giá trị thực tiễn rất lớn.
 
 - **Góp ý khác (tự do chia sẻ):**  
-  Mình xin gửi lời cảm ơn chân thành đến các anh chị mentor, team admin và ban tổ chức FCJ. Cảm ơn mọi người đã luôn kiên nhẫn, hỗ trợ và tạo ra một kỳ thực tập vô cùng trọn vẹn, ý nghĩa.
+  Mình xin gửi lời cảm ơn chân thành đến các anh chị mentor, team admin và ban tổ chức FCAJ. Cảm ơn mọi người đã luôn kiên nhẫn, hỗ trợ và tạo ra một kỳ thực tập vô cùng trọn vẹn, ý nghĩa.

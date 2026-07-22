@@ -31,7 +31,7 @@ Hãy ghé thăm các bài viết chuyên sâu chia sẻ kiến thức của các
 
 ## 📺 Video Các Buổi Event Online
 
-Các buổi chia sẻ online về học tập và làm việc trên AWS của cộng đồng FCJ mà nhóm đã tham gia:
+Các buổi chia sẻ online về học tập và làm việc trên AWS của cộng đồng FCAJ mà nhóm đã tham gia:
 
 * 📹 **[AWS Event Online Live Stream 1](https://www.youtube.com/live/G8-WlI7f6dE?si=8mdUpF4O0NV5Jcx0)**
 * 📹 **[AWS Event Online Live Stream 2](https://www.youtube.com/live/FKtMkUqyny4?si=zFSxU6wKtZ66ju5G)**

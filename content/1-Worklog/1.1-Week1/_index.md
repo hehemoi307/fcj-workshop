@@ -6,7 +6,7 @@ pre: " <b> 1.1. </b> "
 ---
 
 ### Week 1 Objectives:
-- Meet and get acquainted with FCJ Mentors and fellow internship group members.
+- Meet and get acquainted with FCAJ Mentors and fellow internship group members.
 - Approach foundational cloud computing concepts, and complete account setup alongside the reporting environment.
 
 ### Tasks carried out this week:

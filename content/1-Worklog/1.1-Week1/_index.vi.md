@@ -6,7 +6,7 @@ pre: " <b> 1.1. </b> "
 ---
 
 Mục tiêu tuần 1:
-- Gặp mặt, làm quen với các Mentor của FCJ và các thành viên trong nhóm thực tập.
+- Gặp mặt, làm quen với các Mentor của FCAJ và các thành viên trong nhóm thực tập.
 - Tiếp cận các khái niệm cơ bản về điện toán đám mây, hoàn thành thiết lập tài khoản và môi trường báo cáo.
 
 | Ngày | Nhiệm vụ | Ngày bắt đầu | Ngày kết thúc | Tài liệu tham khảo |

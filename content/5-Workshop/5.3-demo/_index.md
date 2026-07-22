@@ -31,7 +31,7 @@ Check out the detailed knowledge sharing posts written by our team members:
 
 ## 📺 Live Stream Online Events
 
-Online events hosted by the FCJ community about learning and working on AWS that our team participated in:
+Online events hosted by the FCAJ community about learning and working on AWS that our team participated in:
 
 * 📹 **[AWS Event Online Live Stream 1](https://www.youtube.com/live/G8-WlI7f6dE?si=8mdUpF4O0NV5Jcx0)**
 * 📹 **[AWS Event Online Live Stream 2](https://www.youtube.com/live/FKtMkUqyny4?si=zFSxU6wKtZ66ju5G)**
